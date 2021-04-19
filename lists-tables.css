@@ -10,3 +10,10 @@ th, td {
 td {
     text-align: center;
 }
+caption {
+    caption-side: bottom;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+}
