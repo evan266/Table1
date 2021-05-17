@@ -108,3 +108,7 @@ table, th,td {
         background-color: #2cc491;
         
         }
+        .scroll-bar {
+          overflow-x: auto;
+        }
+        
